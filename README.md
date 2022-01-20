@@ -1,4 +1,4 @@
-# stock-prediction-bot
+# Stock Prediction Model 
 - Tensorflow
 - Sequential
 - Dense
