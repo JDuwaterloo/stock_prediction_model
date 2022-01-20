@@ -1,1 +1,5 @@
-"# stock-prediction-bot" 
+# stock-prediction-bot
+- Tensorflow
+- Sequential
+- Dense
+- LSTM
