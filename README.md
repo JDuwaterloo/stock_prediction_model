@@ -2,4 +2,4 @@
 - Tensorflow
 - Sequential
 - Dense
-- LSTM
+- LST
